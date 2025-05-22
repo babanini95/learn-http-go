@@ -1,6 +1,6 @@
 # Learning HTTP with Go
 
-This repository contains my assignments in "Learn HTTP Clients in Go course" from [boot.dev]("https://www.boot.dev/courses/learn-http-clients-golang") starting from chapter 5.
+This repository contains my assignments in "Learn HTTP Clients in Go course" from [boot.dev](https://www.boot.dev/courses/learn-http-clients-golang) starting from chapter 5.
 
 ## Overview
 
